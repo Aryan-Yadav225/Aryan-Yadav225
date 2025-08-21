@@ -31,7 +31,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,nodejs,cpp,mysql,mongodb,postgresql,aws,docker,kubernetes,nginx,linux,git,postman,kafka" />
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot,kafka,terraform,docker,kubernetes,helm,angular,ts,js,nodejs,cpp,mysql,mongodb,postgresql,aws,nginx,linux,git,postman" />
 </p>
 
 ---
