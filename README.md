@@ -31,7 +31,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,cpp,angular,ts,js,nodejs,postgresql,mysql,mongodb,nginx,aws,terraform,docker,kubernetes,linux,git,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,cpp,angular,ts,js,nodejs,postgresql,mysql,mongodb,nginx,aws,terraform,docker,kubernetes,linux,git,postman&perline=8" />
 </p>
 
 ---
